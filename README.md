@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! My name is Henry. 
 
-- 🚀 I am currently working on the web applications at Vandebron, a green 🌱  tech company in the Netherlands.
+- 🚀 I am currently building an NFT platform ☁️ for AR fashion in Berlin, Germany. 
 - ⭐️ My primary languages are TypeScript, JavaScript and a _tiny_ bit of Python.
 - 🙋🏽‍♂️ My focus at the moment is on Blockchain technologies, creating smart contracts in [solidity](http://solidity.com/) and creating dApps to contribute to web3.
 - 💬 Fancy connecting? Send me a message over on [LinkedIn](https://www.linkedin.com/in/henry-pye-9b170692/)!
