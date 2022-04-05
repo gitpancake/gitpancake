@@ -9,4 +9,4 @@ Welcome to my GitHub profile!
 - 💬 Check out my [personal space](https://henry-pye.co.uk)
 - 🛠 I'm hosting an [IOTA Hornet Node](https://wiki.iota.org/hornet/welcome). You can too - check out the [docs](https://wiki.iota.org/hornet/getting_started)
 
-~ `why is a raven like a writing desk?`
+> why is a raven like a writing desk?
