@@ -1,6 +1,5 @@
-#### Hello! 👋
+## henry
 
-Welcome to my GitHub profile! 
+software engineer · building AI agents to improve my diet, exercise, and lifestyle
 
-- [website](https://henrypye.xyz)
-
+[henrypye.xyz](https://henrypye.xyz) · [generative art](https://github.com/gitpancake/gen-art) · [farcaster](https://farcaster.xyz/gitpancake)
